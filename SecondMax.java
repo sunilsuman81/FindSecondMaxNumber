@@ -20,6 +20,7 @@ public class SecondMax {
                 s_max = array[i];
             }
         }
+    System.out.println(s_max);
     return s_max;
     }
 
